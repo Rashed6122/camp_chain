@@ -1,11 +1,11 @@
-# Dappazon
+# camp_chain
 
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
 - Javascript (React & Testing)
 - [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
+- [web3.js](https://web3js.readthedocs.io/en/v1.8.2/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
 ## Requirements For Initial Setup
